@@ -22,7 +22,7 @@
 
    微信：
 
-   <img src="https://gitee.com/zgf1366/pic_store/raw/master/img/20210105110611.png" alt="image-20210105110610949" style="zoom: 25%;" />
+   intereting1366
 
    邮箱：
 
@@ -44,8 +44,4 @@
 
   如果文中出现错误，请与我联系。向你敬礼！
 
-## 访问地址
-
-- 在线访问地址：
-
-  https://nicolas-gaofeng.github.io/Salute_Problem/
+谷歌账号注册
