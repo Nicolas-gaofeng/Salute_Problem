@@ -1,14 +1,18 @@
+<div align=center>
+
 ![problem](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105121609.jpg)
+
+</div>
 
 ## 写在前面
 
 - 关于封面
 
-   我是中国人，当然要打出我们的大国宝啦。另外这是文明致敬各种问题的一种方式，搭配程序员都爱的学习网站logo风格，别有一番滋味在心头~
+  我是中国人，当然要打出我们的大国宝啦。另外这是文明致敬IT路上不断地problem的一种方式，搭配程序员都爱的学习网站logo风格，别有一番滋味在心头~
 
-   ![u=3397689449,4160955919&fm=26&gp=0](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105110230.jpg)
+  ![鲁迅](https://gitee.com/zgf1366/pic_store/raw/master/img/20210105185300.jpeg)
 
-   
+  
 
 - 本地编译：
 
@@ -20,19 +24,17 @@
 
 - 联系我：
 
-   微信：
+  微信：
 
-   intereting1366
+  intereting1366
 
-   
+  邮箱：
 
-   邮箱：
+  gaofeng_zgf@163.com
 
-   gaofeng_zgf@163.com
+  nicolasgaofeng@gmail.com
 
-   nicolasgaofeng@gmail.com
-
-   
+  
 
 - 声明：
 
@@ -46,8 +48,12 @@
 
   如果文中出现错误，请与我联系。向你敬礼！
 
+  
+
+
 ## 访问地址
 
-- 在线访问地址：
+-  在线访问地址：
 
-  https://nicolas-gaofeng.github.io/Salute_Problem/
+​	https://nicolas-gaofeng.github.io/Salute_Problem/
+
