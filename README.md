@@ -22,7 +22,9 @@
 
    微信：
 
-   <img src="https://gitee.com/zgf1366/pic_store/raw/master/img/20210105110611.png" alt="image-20210105110610949" style="zoom: 25%;" />
+   intereting1366
+
+   <img src="https://gitee.com/zgf1366/pic_store/raw/master/img/20210105110611.png" alt="image-20210105110610949" style="zoom: 10%;" />
 
    邮箱：
 
