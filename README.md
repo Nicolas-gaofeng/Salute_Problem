@@ -1,6 +1,5 @@
 <div align=center>
-
-[![contributions welcome](https://img.shields.io/badge/License-Apache%202.0-blue)]()
+![problem](https://gitee.com/zgf1366/pic_store/raw/master/img/20210107002631.jpeg)
 
 </div>
 
