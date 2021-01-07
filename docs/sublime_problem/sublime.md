@@ -94,3 +94,7 @@ Visit https://packagecontrol.io/installation 243 for manual instructions
 ![image-20210106233203472](https://gitee.com/zgf1366/pic_store/raw/master/img/20210106233203.png)
 
 8. 至此，SublimeText 3 汉化完成。
+
+## 替换
+
+在ctrl+h界面alt+r开启正则，之后用\n表示换行符
