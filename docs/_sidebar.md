@@ -3,3 +3,5 @@
 * [Sublime Text3 安装及配置](sublime_problem/sublime.md)
 * [windows微信多开](multi_problem/multi.md)
 
+- [pycharm破解](pycharm_problem/pycharm_problem.md)
+
