@@ -1,4 +1,4 @@
-## 下载
+下载
 
 1. 官网地址
 
@@ -94,6 +94,10 @@ Visit https://packagecontrol.io/installation 243 for manual instructions
 ![image-20210106233203472](https://gitee.com/zgf1366/pic_store/raw/master/img/20210106233203.png)
 
 8. 至此，SublimeText 3 汉化完成。
+
+## 插件
+
+
 
 ## 替换
 
