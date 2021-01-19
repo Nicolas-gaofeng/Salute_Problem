@@ -32,11 +32,35 @@ nicolasgaofeng@gmail.com
 
 
 
+## 其他
+
+[Java从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Java)
+
+[Python从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Python)
+
+[Linux从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Linux)
+
+[知识图谱从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Knowledge_Graph)
+
+[Docsify从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Docsify)
+
+[Git从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Git)
+
+[Algorithm从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Algorithm)
+
+[机器学习从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Machine_Learning)
+
+[深度学习从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Deep_Learning)
+
+[Node.js从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Nodejs)
+
+[数学从入门到放弃](https://github.com/Nicolas-gaofeng/Salute_Math)
+
 ## 鸣谢
 
 如果文中出现错误，请与我联系。向你敬礼！
 
 
 
-> [Salute_Problem](https://github.com/Nicolas-gaofeng/Salute_Problem) ©2020 Powered By [docsify](https://github.com/docsifyjs/docsify/).
+> [Salute_Problem](https://github.com/Nicolas-gaofeng/Salute_Problem) ©2021 Powered By [docsify](https://github.com/docsifyjs/docsify/).
 
